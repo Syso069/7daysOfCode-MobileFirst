@@ -1,0 +1,26 @@
+.navbar {
+    display: flex;
+    padding: 1.5em;
+    align-items: center;
+}
+
+.imagem__navbar {
+    border-radius: 50%;
+    width: 20%;
+}
+
+.container__navbar {
+    margin-left: 1.5em;
+}
+
+.titulo__navbar {
+    color: var(--cinza-escuro);
+    font-weight: 700;
+    font-size: 22px;
+    padding-bottom: 0.5em;
+}
+
+.texto__navbar {
+    color: var(--cinza-claro);
+    font-weight: 400;
+}

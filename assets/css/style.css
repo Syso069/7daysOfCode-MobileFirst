@@ -1,0 +1,18 @@
+@import url(navbar.css);
+@import url(agendamento.css);
+
+:root {
+    --font-principal: "Montserrat";
+    --cinza-escuro: #464646;
+    --cinza-claro: #A3A3A3;
+    --amarelo: #FFB050;
+    --branco: #FFFFFF;
+    --branco-escuro: #ECECEC;
+    --azul-claro: #4894FF;
+}
+
+body {
+    font-family: var(--font-principal);
+    font-weight: 500;
+    font-size: 14px;
+}
