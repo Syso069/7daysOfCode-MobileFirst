@@ -27,7 +27,7 @@ Para isso, te enviaram um layout no Figma.
 - HTML / CSS 
 
 # Visualizar o projeto
-https://syso069.github.io/7daysOfCode-MobileFirst/
+https://syso069.github.io/Siso-Hospital/
 
 # Autor
 
