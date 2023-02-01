@@ -1,0 +1,44 @@
+.rodape {
+    padding: 1.5em;
+}
+
+.imagem__ponto-flutuante {
+    position: fixed;
+    right: 0;
+    top: 75%;
+}
+
+.rodape__lista {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    text-align: center;
+    position: fixed;
+    top: 85%;
+    box-shadow: 0px -4px 8px rgba(0, 0, 0, 0.06);
+    border-radius: 12px 12px 0px 0px;
+    background: var(--branco);
+    width: 90%;
+}
+
+.rodape__texto-selecionado, 
+.rodape__texto {
+    font-size: 12px;
+    font-weight: 400;
+    padding: 0 0.5em 0.5em 0.5em;
+}
+
+.rodape__texto-selecionado {
+    color: var(--azul-claro);
+}
+
+.imagem__rodape-selecionado,
+.imagem__rodape{
+    padding: 1em;
+}
+
+.imagem__rodape,
+.rodape__texto {
+    color: var(--cinza-escuro);
+    opacity: 60%;
+}

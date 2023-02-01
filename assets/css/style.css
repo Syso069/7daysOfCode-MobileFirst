@@ -1,5 +1,6 @@
 @import url(navbar.css);
 @import url(agendamento.css);
+@import url(rodape.css);
 
 :root {
     --font-principal: "Montserrat";
