@@ -70,13 +70,3 @@
     right: 0;
     top: 55%;
 }
-
-.botao__flutuante:checked~.agendamento {
-    position: absolute;
-    width: 360px;
-    height: 720px;
-    left: 0px;
-    top: 0px;
-    background: var(--preto);
-    opacity: 0.6;
-}
