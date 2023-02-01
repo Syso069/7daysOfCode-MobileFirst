@@ -18,7 +18,7 @@ Para isso, te enviaram um layout no Figma.
 
 ## Layout Mobile
 <div style="display: inline_block"><br>
-<img height="800" alt="Imagem mobile optimustech" src="https://user-images.githubusercontent.com/94554205/215867624-e0671081-078f-4005-b100-3caf6dc41752.png">
+<img height="800" alt="Imagem mobile optimustech" src="https://user-images.githubusercontent.com/94554205/216171511-5f491c1b-3d58-4566-ae31-524d7a2ef60c.png">
 <img height="800" alt="Imagem mobile optimustech" src="https://user-images.githubusercontent.com/94554205/215867718-137a6a8b-f348-4d87-966d-874876db30e1.png">
 </div>
 
