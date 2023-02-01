@@ -2,6 +2,27 @@
     padding: 1.5em;
 }
 
+.lista__menu-flutuante {
+    display: none;
+}
+
+.lista__menu-item {
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: end;
+}
+
+.botao__flutuante {
+    display: none;
+}
+
+.lista__menu-texto {
+    border-radius: 10px;
+    background: var(--branco);
+    padding: 0.5em;
+}
+
 .imagem__ponto-flutuante {
     position: fixed;
     right: 0;
@@ -41,4 +62,21 @@
 .rodape__texto {
     color: var(--cinza-escuro);
     opacity: 60%;
+}
+
+.botao__flutuante:checked~.lista__menu-flutuante {
+    display: block;
+    position: fixed;
+    right: 0;
+    top: 55%;
+}
+
+.botao__flutuante:checked~.agendamento {
+    position: absolute;
+    width: 360px;
+    height: 720px;
+    left: 0px;
+    top: 0px;
+    background: var(--preto);
+    opacity: 0.6;
 }

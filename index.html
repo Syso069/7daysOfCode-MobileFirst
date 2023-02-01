@@ -290,8 +290,25 @@
     </main>
 
     <footer class="rodape">
-        <img src="assets/img/botaoFlutuante.svg" alt="Botão para adicionar consulta" class="imagem__ponto-flutuante">
+        <div class="menu__flutuante">
+            <input type="checkbox" id="menu" class="botao__flutuante">
+            <label for="menu" class="menu__flutuante-rotulo">
+                <img src="assets/img/botaoFlutuante.svg" alt="Botão para adicionar consulta" class="imagem__ponto-flutuante">
+            </label>
 
+            <ul class="lista__menu-flutuante">
+                <li class="lista__menu-item">
+                    <p class="lista__menu-texto">Nova consulta na casa do paciente</p>
+                    <button><img src="assets/img/pinFab.svg" alt="Botão pin"></button>
+                </li>
+
+                <li class="lista__menu-item">
+                    <p class="lista__menu-texto">Nova consulta por vídeo</p>
+                    <button><img src="assets/img/cameraFab.svg" alt="Botão câmera"></button>
+                </li>
+            </ul>
+        </div>
+    
         <ul class="rodape__lista">
             <li class="rodape__items">
                 <img src="assets/img/calendarioIcone.svg" alt="Icone calendario" class="imagem__rodape-selecionado">
