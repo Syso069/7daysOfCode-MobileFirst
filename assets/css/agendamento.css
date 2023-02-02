@@ -93,3 +93,10 @@ hr {
     margin-bottom: 1.5em;
     width: 90%;
 }
+
+@media screen and (min-width: 1024px) {
+    .agendamento {
+       width: 30%;
+       margin: auto;
+    }
+}

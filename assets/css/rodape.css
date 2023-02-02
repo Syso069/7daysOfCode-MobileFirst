@@ -19,8 +19,10 @@
 
 .lista__menu-texto {
     border-radius: 10px;
-    background: var(--branco);
+    background: var(--cinza-escuro);
+    color: var(--branco);
     padding: 0.5em;
+    align-items: center;
 }
 
 .imagem__ponto-flutuante {
@@ -28,6 +30,7 @@
     right: 0;
     top: 75%;
     padding-bottom: 1.5em;
+    transition: 0.4s;
 }
 
 .rodape__lista {
@@ -70,4 +73,17 @@
     position: fixed;
     right: 0;
     top: 50%;
+}
+
+@media screen and (min-width:1024px) {
+    .rodape {
+        margin: auto;
+    }
+
+    .rodape__lista {
+        display: flex;
+        justify-content: space-between;
+        top: 90%;
+        right: 5%;
+    }
 }

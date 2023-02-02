@@ -24,3 +24,9 @@
     color: var(--cinza-claro);
     font-weight: 400;
 }
+
+@media screen and (min-width:1024px) {
+    .imagem__navbar {
+        width: 5%;
+    }
+}
