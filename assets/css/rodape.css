@@ -66,7 +66,7 @@
 
 .botao__flutuante:checked~.lista__menu-flutuante {
     display: block;
-    position: fixed;
+    position: absolute;
     right: 0;
-    top: 55%;
+    top: 60%;
 }
