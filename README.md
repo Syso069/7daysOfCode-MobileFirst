@@ -19,7 +19,13 @@ Para isso, te enviaram um layout no Figma.
 ## Layout Mobile
 <div style="display: inline_block"><br>
 <img height="800" alt="Imagem mobile optimustech" src="https://user-images.githubusercontent.com/94554205/216171511-5f491c1b-3d58-4566-ae31-524d7a2ef60c.png">
-<img height="800" alt="Imagem mobile optimustech" src="https://user-images.githubusercontent.com/94554205/215867718-137a6a8b-f348-4d87-966d-874876db30e1.png">
+<img height="800" alt="Imagem mobile optimustech" src="https://user-images.githubusercontent.com/94554205/216464265-75d2381d-7c36-45b2-8f08-8bd4db206dd8.png">
+</div>
+
+## Layout Desktop
+<div style="display: inline_block"><br>
+<img height="600" alt="Imagem desktop siso hospital" src="https://user-images.githubusercontent.com/94554205/216464501-1522cf03-c8ed-4b92-978a-692ca93a2455.png">
+<img height="600" alt="Imagem desktop siso hospital" src="https://user-images.githubusercontent.com/94554205/216464636-7b521991-8e40-460c-873c-4d90dae0d687.png">
 </div>
 
 # Tecnologias utilizadas
