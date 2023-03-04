@@ -14,7 +14,7 @@ Para isso, te enviaram um layout no Figma.
 
 # Status do projeto
 
-> Em desenvolvimento 🚧
+> Concluído ✔️
 
 ## Layout Mobile
 <div style="display: inline_block"><br>
